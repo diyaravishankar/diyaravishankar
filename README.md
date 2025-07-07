@@ -64,6 +64,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/diyaravishankar/diyaravishankar/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/diyaravishankar/snake-anim/output/snake.svg" alt="Snake animation" />
 
 ###
