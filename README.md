@@ -10,7 +10,7 @@ Hey there! I’m **Diya**, a Bengaluru-based Software Development Engineer with 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-##⚖️ What I'm Up To
+## What I'm Up To ⚖️
 
 - Engineering multilingual voice-based agents using **LangGraph & YAML**
 - Enhancing **audio classification models** (like CLAP) with **knowledge distillation**
