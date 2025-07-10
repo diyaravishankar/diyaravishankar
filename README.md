@@ -89,7 +89,8 @@ Hey there! I’m **Diya**, a Bengaluru-based Software Development Engineer with 
 
 
 ###
-
-<img src="https://raw.githubusercontent.com/diyaravishankar/snake-anim/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diyaravishankar/diyaravishankar/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/diyaravishankar/diyaravishankar/output/pacman-contribution-graph.svg">
 
 ###
